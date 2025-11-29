@@ -158,6 +158,10 @@ footer a {
   .container {
     padding: var(--spacing-md) var(--spacing-sm);
   }
+  p {
+    font-size: 0.8rem;
+    text-align: justify;
+  }
   h1 {
     font-size: 1.8rem;
   }
